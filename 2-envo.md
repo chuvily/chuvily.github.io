@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     page
 title:      世界观建设
 description: 
          <p>桃花落，闲池阁。山盟虽在，锦书难托。</p>

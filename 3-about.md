@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     page
 title:      关于我
 description:   
          <p>芳心只付西风雨，难随红叶舞流萍</p>
