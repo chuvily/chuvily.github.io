@@ -1,8 +1,10 @@
 ---
 layout:     page
 title:      世界观建设
-description:   「一切的开端」
-header-img: "img/banner-intro.png"
+description: 
+         <p> 「生命中最重要的事情，不是你拥有了什么，而是你成为了什么」</p>
+
+header-img: "img/banner-country.jpg"
 catalog: false
 ---
 # 背景设定
