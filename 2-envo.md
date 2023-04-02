@@ -2,7 +2,7 @@
 layout:     page
 title:      世界观建设
 description:   「一切的开端」
-header-img: "img/banner-title.jpg"
+header-img: "img/banner-intro.jpg"
 catalog: false
 ---
 # 背景设定
