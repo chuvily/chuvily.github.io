@@ -1,7 +1,9 @@
 ---
-layout:     page
+layout:     default
 title:      关于我
-description:   「你便是倦了恼了，我又有什么法子了？」
+description:   
+         <p>芳心只付西风雨，难随红叶舞流萍</p>
+
 date:       2023-03-26
 author:     Nellie Sheila
 header-img: "img/banner-title.jpg"

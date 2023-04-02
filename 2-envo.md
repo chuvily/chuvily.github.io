@@ -1,8 +1,8 @@
 ---
-layout:     page
+layout:     default
 title:      世界观建设
 description: 
-         <p> 生命中最重要的事情，不是你拥有了什么，而是你成为了什么</p>
+         <p>桃花落，闲池阁。山盟虽在，锦书难托。</p>
 
 header-img: "img/banner-title.jpg"
 catalog: false
