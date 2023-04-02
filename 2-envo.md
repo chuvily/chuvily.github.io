@@ -4,7 +4,7 @@ title:      世界观建设
 description: 
          <p>桃花落，闲池阁。山盟虽在，锦书难托。</p>
 
-header-img: "img/banner-title.jpg"
+header-img: "img/banner-country.jpg"
 catalog: false
 ---
 # 背景设定
