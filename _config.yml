@@ -15,7 +15,7 @@ sidebar-about-description:
    <p> 都云作者痴，谁解其中味</p>
    <p> 满纸荒唐言，一把辛酸泪</p>
    <p> TIM：2302128153</p>
-sidebar-avatar: /img/about_chuvily.jpeg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_chuvily.webp    # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
